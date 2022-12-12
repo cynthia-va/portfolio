@@ -1,3 +1,3 @@
-# redes_neuronales
+# my portfolio
 
-Ejemplos de trabajos realizados por mí donde aplico redes neuronales.
+Here, I will be uploading data science projects.
